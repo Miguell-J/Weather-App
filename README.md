@@ -1,2 +1,3 @@
-# Weather-App
-Weather app using html, css and js
+# Weather app
+
+[Visite o site](https://miguell-j.github.io/Weather-App/)
